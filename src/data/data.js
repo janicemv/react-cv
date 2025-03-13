@@ -32,7 +32,7 @@ I love automating processes, making information accessible, and structuring data
       type: 'experiences-list',
       title: 'IT Training',
       description: '',
-      icon: 'archive',
+      icon: 'graduation',
       items: [
         {
           title: 'Fullstack Development Training',
@@ -83,7 +83,7 @@ I love automating processes, making information accessible, and structuring data
         {
           title: 'Secretary (volunteer)',
           company: 'Society of Low Temperature Biology (SLTB)',
-          description: 'Managed the website, organized events, and handled document creation, registrations, and certificate management. I also handled the migration of the 2019 event website from WordPress to Squarespace.',
+          description: 'Managed the website, organized events, and handled document creation, registrations, and certificate generation. I also handled the migration of the 2019 event website from WordPress to Squarespace.',
           companyWebSite: 'http://sltb.info',
           datesBetween: '05/2019 - 08/2022',
           descriptionTags: ['Wordpress', 'Squarespace', 'Databases', 'Mailchimp', 'Microsoft Office'],
